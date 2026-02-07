@@ -1,6 +1,6 @@
 # time-tracker
 
-A simple CLI time tracking application with persistent storage, writtern in Haskell.
+A simple CLI time tracking application with persistent storage, written in Haskell.
 
 ## Usage
 
